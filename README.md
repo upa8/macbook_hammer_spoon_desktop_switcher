@@ -48,7 +48,7 @@ This project fixes that by:
 ---
 
 ## Demo
-![Monitor switcher HUD demo](video.mp4)
+[![Watch the demo](video.mp4)](video.mp4)
 
 The HUD appears briefly at the bottom of the newly focused monitor, showing its position in the layout and its display name. It fades in and out quickly so it doesn't interrupt your workflow.
 
